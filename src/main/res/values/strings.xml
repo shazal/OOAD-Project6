@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LMS-OOAD</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="language_arrays">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Urdu</item>
+
+    </string-array>
+
+    <string-array name="discipline_arrays">
+        <item>ComputerScience</item>
+        <item>Maths</item>
+        <item>Physics</item>
+
+    </string-array>
+
+    <string-array name="language_arrays_search">
+        <item>Language</item>
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Urdu</item>
+
+    </string-array>
+
+    <string-array name="discipline_arrays_search">
+        <item>Discipline</item>
+        <item>ComputerScience</item>
+        <item>Maths</item>
+        <item>Physics</item>
+
+    </string-array>
+</resources>
